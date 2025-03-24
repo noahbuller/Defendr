@@ -1,6 +1,6 @@
 // src/components/Header.tsx
 import React from "react";
-import "../styles/Header.css"; // if you want separate CSS
+//import "../styles/Header.css"; // if you want separate CSS
 
 const Header: React.FC = () => {
   return (

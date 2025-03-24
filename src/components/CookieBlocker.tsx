@@ -1,6 +1,6 @@
 // src/components/CookieBlockerCard.tsx
 import React from "react";
-import "../styles/CookieBlocker.css";
+//import "../styles/CookieBlocker.css";
 
 const CookieBlockerCard: React.FC = () => {
   // This could be a toggle, switch, or just a status display

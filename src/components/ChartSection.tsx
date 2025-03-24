@@ -1,6 +1,6 @@
 // src/components/ChartSection.tsx
 import React from "react";
-import "./styles/ChartSection.css";
+//import "./styles/ChartSection.css";
 
 const ChartSection: React.FC = () => {
   return (
