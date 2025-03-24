@@ -1,0 +1,8 @@
+/* src/styles/DailyTipCard.css */
+
+.daily-tip-card {
+    flex: 1;
+    background-color: #eef9f1;
+    padding: 1rem;
+    border-radius: 4px;
+  }  
