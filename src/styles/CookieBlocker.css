@@ -1,0 +1,8 @@
+/* src/styles/CookieBlockerCard.css */
+
+.cookie-blocker-card {
+    flex: 1;
+    background-color: #f1f1f1;
+    padding: 1rem;
+    border-radius: 4px;
+  }
