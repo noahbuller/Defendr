@@ -1,5 +1,4 @@
 // src/App.tsx
-import React from "react";
 import Header from "./components/Header";
 import ChartSection from "./components/ChartSection";
 import CookieBlockerCard from "./components/CookieBlocker";

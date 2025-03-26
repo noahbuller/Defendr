@@ -2,7 +2,8 @@ import { useState } from "react";
 import {ToastContainer, toast} from "react-toastify";
 const TempMailGenerator = () => {
   const [loading, setLoading] = useState<boolean>(false);
-  const [inbox, setInbox] = useState<{ address: string; token: string }>({ address: "", token: "" });
+  // hook that hasn't been used yet
+  // const [inbox, setInbox] = useState<{ address: string; token: string }>({ address: "", token: "" });
 
   const handleGenerateEmail = async () => {
     setLoading(true);
