@@ -1,6 +1,6 @@
 // src/components/DailyTipCard.tsx
 import React from "react";
-//import "../styles/DailyTipCard.css";
+import "../styles/DailyTipCard.css";
 
 const DailyTipCard: React.FC = () => {
   return (

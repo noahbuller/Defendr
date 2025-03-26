@@ -14,7 +14,6 @@ const App = () => {
       <ChartSection />
       <CookieBlockerCard />
       <DailyTipCard />
-      <h1>Defendr</h1>
       <TempMailGenerator />
     </div>
   );
