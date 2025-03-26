@@ -6,3 +6,17 @@
     padding: 1rem;
     border-radius: 4px;
   }  
+
+.tip-text {
+  cursor: default;
+  text-decoration: none;
+  color: inherit;
+  transition: background-color 0.3s ease; /* Smooth transition for background color */
+}
+
+.tip-text:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  color: blue; /* or any color you prefer */
+  background-color: #d0e7ff; /* Highlight color when hovered */
+}  
